@@ -1,6 +1,6 @@
-### horiseonw1revised
+# horiseonw1revised
 
-##Description:
+###Description:
 
 This project was created to practice linking HTML files to CSS files and to practice styling and deploying a page.
 
